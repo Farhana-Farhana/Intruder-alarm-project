@@ -165,9 +165,3 @@ void alarm_condition() {
 
 This project successfully demonstrates a basic intruder detection system using ultrasonic sensing.
 It highlights how simple electronic components can be combined to create practical and scalable security solutions.
-
----
-
-## 👩‍💻 Author
-
-**Farhana N S**
