@@ -41,7 +41,7 @@ The system operates based on **ultrasonic distance measurement**:
 ## 📐 Distance Calculation Formula
 
 [
-\text{Distance} = \frac{\text{Time} \times \text{Speed of Sound}}{2}
+Distance = (Time × Speed of Sound) / 2
 ]
 
 Where:
