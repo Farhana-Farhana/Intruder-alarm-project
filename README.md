@@ -1,4 +1,4 @@
-# 🚨 Intruder Alarm System using Ultrasonic Sensor (Arduino)
+# 🚨 Intruder Alarm System (Arduino)
 
 The **Intruder Alarm System** is a simple yet effective security solution built using an ultrasonic sensor and Arduino.
 It detects the presence of an object (intruder) within a predefined distance and triggers an alarm using a buzzer.
